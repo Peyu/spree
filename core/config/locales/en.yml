@@ -884,7 +884,7 @@ en:
     month: Month
     more: More
     move_stock_between_locations: Move Stock Between Locations
-    my_account: My Account
+    my_account: Mi Cuenta
     my_orders: My Orders
     name: Name
     name_on_card: Name on card
@@ -896,39 +896,39 @@ en:
     new_country: New Country
     new_image: New Image
     new_option_type: New Option Type
-    new_order: New Order
+    new_order: Nueva Orden
     new_order_completed: New Order Completed
-    new_payment: New Payment
+    new_payment: Nuevo Pago
     new_payment_method: New Payment Method
-    new_product: New Product
-    new_promotion: New Promotion
-    new_promotion_category: New Promotion Category
-    new_property: New Property
-    new_prototype: New Prototype
-    new_refund: New Refund
+    new_product: Nuevo Producto
+    new_promotion: Nueva Promocin
+    new_promotion_category: Nueva Categoria de Promoción
+    new_property: Nueva Propiedad
+    new_prototype: Nuevo Prototipo
+    new_refund: Nuevo Reintegro
     new_refund_reason: New Refund Reason
     new_reimbursement_type: New Reimbursement Type
     new_rma_reason: New RMA Reason
     new_return_authorization: New Return Authorization
     new_role: New Role
-    new_shipping_category: New Shipping Category
+    new_shipping_category: Nueva Categoria de Envio
     new_shipping_method: New Shipping Method
     new_shipment_at_location: New shipment at location
-    new_state: New State
+    new_state: Nuevo estado
     new_stock_location: New Stock Location
     new_stock_movement: New Stock Movement
     new_stock_transfer: New Stock Transfer
     new_store_credit: New Store Credit
     new_store_credit_category: New Store Credit Category
     new_tax_category: New Tax Category
-    new_tax_rate: New Tax Rate
-    new_taxon: New Taxon
-    new_taxonomy: New Taxonomy
+    new_tax_rate: Nuevo Índice de Impuesto
+    new_taxon: Nuevo Taxon
+    new_taxonomy: Nueva taxonoma
     new_tracker: New Tracker
-    new_user: New User
-    new_variant: New Variant
-    new_zone: New Zone
-    next: Next
+    new_user: Nuevo Usuario
+    new_variant: Nueva Variante
+    new_zone: Nueva Zona
+    next: Siguiente
     no_actions_added: No actions added
     no_available_date_set: No available date set
     no_payment_found: No payment found
